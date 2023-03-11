@@ -172,4 +172,4 @@ The recognizable commands by the interpreter are the following:
 Godsent Oyarekhua
 
 
-Emmanuel Ademola
+Emmanuel Ademola Ejiroghene
